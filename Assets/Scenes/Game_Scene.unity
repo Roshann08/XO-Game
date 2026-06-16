@@ -180,8 +180,8 @@ MonoBehaviour:
 
 '
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 113b84477ce962e4d940917b71367514, type: 2}
-  m_sharedMaterial: {fileID: -6742803308368269812, guid: 113b84477ce962e4d940917b71367514, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 1f2b1b7ab55dee94a9a8d1137d4ae421, type: 2}
+  m_sharedMaterial: {fileID: 5278226662783189587, guid: 1f2b1b7ab55dee94a9a8d1137d4ae421, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -666,7 +666,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 2
-  m_BackGroundColor: {r: 1, g: 1, b: 1, a: 0}
+  m_BackGroundColor: {r: 0.050980393, g: 0.03137255, b: 0.0627451, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -1678,7 +1678,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 1}
+  m_Color: {r: 0.050980393, g: 0.03137255, b: 0.0627451, a: 0}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -2051,8 +2051,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 0
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 113b84477ce962e4d940917b71367514, type: 2}
-  m_sharedMaterial: {fileID: -6742803308368269812, guid: 113b84477ce962e4d940917b71367514, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 1f2b1b7ab55dee94a9a8d1137d4ae421, type: 2}
+  m_sharedMaterial: {fileID: 5278226662783189587, guid: 1f2b1b7ab55dee94a9a8d1137d4ae421, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
